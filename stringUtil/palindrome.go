@@ -1,5 +1,6 @@
 package stringUtil
 
+//This is a Palindrome Function
 func IsPalindrome(s string) bool {
 	var l int = len(s)
 	i := 0
